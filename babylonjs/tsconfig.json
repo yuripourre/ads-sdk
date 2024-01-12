@@ -1,0 +1,10 @@
+{
+  "include": ["aframe/src/**/*","babylonjs/src/**/*"],
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "dist",
+    "declarationMap": true
+  }
+}
